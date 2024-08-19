@@ -1,2 +1,1 @@
-# Changelogs, informations and more :
-## https://discord.gg/8jTjhybSeB
+# Sakura is officially discontinued as of 17/08/2024.
