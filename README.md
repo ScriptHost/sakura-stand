@@ -1,1 +1,2 @@
-# Sakura is officially discontinued as of 17/08/2024.
+# More Info There :
+## https://discord.gg/9nFCfKtuGq
